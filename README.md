@@ -17,8 +17,8 @@
 
 ## My projects
 
-[Promanage](https://promanage-ten.vercel.app) - A Project Management Tool with kanban board and node based workflow builder. 
+[Promanage](https://promanage-ten.vercel.app) - A Work Management Tool with kanban board and node based workflow builder. 
 
-[Havns](https://havns.vercel.app) - A Marriage Hall Booking Platform
+[Havns](https://havns.vercel.app) - A Venue Booking Platform
 
 [IP Server and Client Model](https://github.com/dharmesh53/IP-Server-And-Client-Model) - A model illustrating data transfer between server to client using raw socket on IP address in C
